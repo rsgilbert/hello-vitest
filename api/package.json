@@ -1,0 +1,7 @@
+{
+    "name": "api",
+    "type": "module",
+    "scripts": {
+        "try": "node hi.js"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "web",
+    "type": "module",
+    "scripts": {
+        "well": "node welcome.js"
+    },
+    "dependencies": {
+        "api": "workspace:^"
+    }
+}
