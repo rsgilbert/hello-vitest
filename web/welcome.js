@@ -1,4 +1,8 @@
 import hiYou from "api/hi.js";
 
 
-hiYou()
+// hiYou()
+
+export function sayWelcome(){
+    return "You are welcome here";
+}

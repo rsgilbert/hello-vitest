@@ -2,6 +2,10 @@
     "name": "api",
     "type": "module",
     "scripts": {
-        "try": "node hi.js"
+        "try": "node hi.js",
+        "test": "vitest"
+    },
+    "devDependencies": {
+        "vitest": "^1.0.4"
     }
 }

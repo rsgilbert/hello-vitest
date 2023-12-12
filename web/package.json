@@ -2,9 +2,13 @@
     "name": "web",
     "type": "module",
     "scripts": {
-        "well": "node welcome.js"
+        "well": "node welcome.js",
+        "test": "vitest"
     },
     "dependencies": {
         "api": "workspace:^"
+    },
+    "devDependencies": {
+        "vitest": "^1.0.4"
     }
 }

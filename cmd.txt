@@ -1,0 +1,2 @@
+to run a script in a workspace like api, do 
+yarn workspace api test 

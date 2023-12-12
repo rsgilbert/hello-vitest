@@ -451,6 +451,8 @@ __metadata:
 "api@workspace:^, api@workspace:api":
   version: 0.0.0-use.local
   resolution: "api@workspace:api"
+  dependencies:
+    vitest: "npm:^1.0.4"
   languageName: unknown
   linkType: soft
 
@@ -1735,6 +1737,7 @@ __metadata:
   resolution: "web@workspace:web"
   dependencies:
     api: "workspace:^"
+    vitest: "npm:^1.0.4"
   languageName: unknown
   linkType: soft
 
